@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+}
+img {
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+}
+div {
+    text-align: center;
+}
+body {
+    background-color: #cccccc;
+}
